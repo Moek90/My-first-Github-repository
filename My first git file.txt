@@ -3,3 +3,5 @@ but this will change very soon because we trust in the process and we will study
 changes.
 
 Today I learned how to add and commit.
+
+In order to add we type git add . 
