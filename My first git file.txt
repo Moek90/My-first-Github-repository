@@ -5,3 +5,5 @@ changes.
 Today I learned how to add and commit.
 
 In order to add we type git add . 
+
+I am making a change in my life for the better. This class is going really good.
